@@ -358,3 +358,7 @@ En términos simples:
 * JSON
 
 ---
+# AUTOR
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lucas%20Pajarito&fontSize=40&fontAlignY=35&animation=twinkling"/>
+</p>
